@@ -1,0 +1,7 @@
+"Want a fast meal?" "How about coffee?" "On expense account?"
+"How about coffee?" "Starbucks" "Spike's"
+"Starbucks" # #
+"Spike's" # #
+"On expense account?" "Al Forno" "Cafe Paragon"
+"Al Forno" # #
+"Cafe Paragon" # #
